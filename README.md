@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KC-inDomus
+- 👋 Hi, I’m @KC
 - 👀 I’m interested in smart home
 - 🌱 I’m currently learning smart home
 - 💞️ I’m looking to collaborate on smart home
